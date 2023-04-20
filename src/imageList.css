@@ -1,0 +1,47 @@
+/* Style for the container of the image list */
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  /* Style for each individual image item */
+  .image-item {
+    width: calc(33.33% - 10px);
+    margin-bottom: 100px;
+    position: relative;
+  }
+  
+  /* Style for the image within each item */
+  .image-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the overlay text */
+  .image-info {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  /* Style for the title of the image */
+  .image-info h2 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  /* Style for the description of the image */
+  .image-info p {
+    margin: 0;
+    font-size: 0.9rem;
+  }

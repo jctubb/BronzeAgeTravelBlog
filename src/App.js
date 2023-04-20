@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import ImageListMycenae from './imageListMycenae';
 import './App.css';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
       </div>
+      <ImageListMycenae/>
     </div>
   );
 }
