@@ -25,7 +25,7 @@ function App() {
           <Route path = "/akrotiri" element={<Akrotiri/>} />
         </Routes>
       </Router>
-    </div>
+    </div> 
   );
 }
 
