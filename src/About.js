@@ -21,7 +21,7 @@ function About() {
                 Making this blog
             </h2>
             <p>
-                This blog was made using React, stylized with CSS, and hosted on Heroku. All pictures taken by me. 
+                This blog was made using React, stylized with CSS, and hosted on AWS. All pictures taken by me. 
             </p>
         </div>
     )
