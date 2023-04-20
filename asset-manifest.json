@@ -1,7 +1,7 @@
 {
   "main.css": "/BronzeAgeTravelBlog/static/css/main.61d3c2ba.chunk.css",
-  "main.js": "/BronzeAgeTravelBlog/static/js/main.b1b58485.chunk.js",
-  "main.js.map": "/BronzeAgeTravelBlog/static/js/main.b1b58485.chunk.js.map",
+  "main.js": "/BronzeAgeTravelBlog/static/js/main.b49e68a4.chunk.js",
+  "main.js.map": "/BronzeAgeTravelBlog/static/js/main.b49e68a4.chunk.js.map",
   "static/js/1.b5dec123.chunk.js": "/BronzeAgeTravelBlog/static/js/1.b5dec123.chunk.js",
   "static/js/1.b5dec123.chunk.js.map": "/BronzeAgeTravelBlog/static/js/1.b5dec123.chunk.js.map",
   "static/js/2.455bae00.chunk.js": "/BronzeAgeTravelBlog/static/js/2.455bae00.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/BronzeAgeTravelBlog/static/js/runtime~main.071ee71d.js.map",
   "static/css/main.61d3c2ba.chunk.css.map": "/BronzeAgeTravelBlog/static/css/main.61d3c2ba.chunk.css.map",
   "index.html": "/BronzeAgeTravelBlog/index.html",
-  "precache-manifest.07f4d7a2ff949a9ac999263505b274d8.js": "/BronzeAgeTravelBlog/precache-manifest.07f4d7a2ff949a9ac999263505b274d8.js",
+  "precache-manifest.58acdcd074e9a7ae109e5d67a799ddf1.js": "/BronzeAgeTravelBlog/precache-manifest.58acdcd074e9a7ae109e5d67a799ddf1.js",
   "service-worker.js": "/BronzeAgeTravelBlog/service-worker.js"
 }
