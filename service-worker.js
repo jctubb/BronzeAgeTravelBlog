@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BronzeAgeTravelBlog/precache-manifest.5b96e73eed48d52a9ae7f21dfa919f33.js"
+  "/BronzeAgeTravelBlog/precache-manifest.3cac259b4f0e4aa2aabbc30529408f02.js"
 );
 
 workbox.clientsClaim();
