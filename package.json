@@ -1,7 +1,7 @@
 {
   "name": "bronze-age-travel-blog",
   "version": "0.1.0",
-  "homepage": "https://jctubb.github.io/BronzeAgeTravelBlog/",
+  "homepage": "https://jctubb.github.io/BronzeAgeTravelBlog",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
