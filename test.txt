@@ -1,0 +1,6 @@
+<div class="topnav">
+        <a class="active" href="#about">About</a>
+        <a href="#news">Mycenae</a>
+        <a href="#contact">Akrotiri</a>
+      </div>
+      <ImageListMycenae/>
