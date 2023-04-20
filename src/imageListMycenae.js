@@ -9,6 +9,7 @@ const images = [
     description: 'The Lions Gate at Mycenae',
     imageSrc: './LionsGate.jpg',
   },
+  
   {
     id: 2,
     title: 'Lions Gate Closeup',
