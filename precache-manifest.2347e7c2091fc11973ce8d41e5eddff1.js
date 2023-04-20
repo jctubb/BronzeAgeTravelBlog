@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b1b58485a0cfc88c09db",
+    "revision": "f86dd64c76b7f5e8ca89",
     "url": "/BronzeAgeTravelBlog/static/css/main.61d3c2ba.chunk.css"
   },
   {
-    "revision": "b1b58485a0cfc88c09db",
-    "url": "/BronzeAgeTravelBlog/static/js/main.b1b58485.chunk.js"
+    "revision": "f86dd64c76b7f5e8ca89",
+    "url": "/BronzeAgeTravelBlog/static/js/main.f86dd64c.chunk.js"
   },
   {
     "revision": "b5dec1235d8d1d118e4f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/BronzeAgeTravelBlog/static/js/runtime~main.071ee71d.js"
   },
   {
-    "revision": "72e7c47c24f378d3eacc2dc6990a6143",
+    "revision": "8df254743a67dda28dd58bd00154dea8",
     "url": "/BronzeAgeTravelBlog/index.html"
   }
 ];
